@@ -1,0 +1,56 @@
+{
+	"basics": {
+		"name": "Ritish Singla",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/83215824?v=4",
+		"email": "2020kuec2027@iiitkota.ac.in",
+		"phone": "9056224100",
+		"summary": "I am student of Indian Institute of Information Technology Kota pursuing BTech in Electronics and Communication Engineering.",
+		"location": {
+			"address": "Krishna Colony near Government College",
+			"postalCode": "148023",
+			"city": "Malerkotla",
+			"countryCode": "India",
+			"region": "Punjab"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "Ritish29",
+				"url": "https://www.twitter.com/Ritish29"
+			},
+			{
+				"network": "Github",
+				"username": "Ritish-Singla",
+				"url": "https://www.github.com/Ritish-Singla/"
+			},
+			{
+				"network": "linkedin",
+				"username": "Ritish Singla",
+				"url": "https://www.linkedin.com/in/Ritish Singla/"
+			},
+			{
+				"network": "Instagram",
+				"username": "ritish_29",
+				"url": "https://instagram.com/ritish_29"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor of Technology",
+		"startDate": "2020-02-12 //Date",
+		"gpa": "8.05",
+		"courses": [
+			"Electronics & Communication Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Learner",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket", "Badminton"]
+	}]
+}
